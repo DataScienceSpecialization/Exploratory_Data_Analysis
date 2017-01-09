@@ -1,0 +1,64 @@
+---
+title: 'Exploratory Graphs: Theory of Graphical Perception'
+author: Roger D. Peng, Associate Professor of Biostatistics
+always_allow_html: 'yes'
+---
+
+
+## Background - perceptual tasks
+
+![perceptual.png](../../assets/img/perceptual.png)
+
+[Graphical perception: Theory, Experimentation, and Applications to the Development of Graphical Models](http://www.jstor.org/discover/10.2307/2288400?uid=3739704&uid=2&uid=4&uid=3739256&sid=21101742782357)
+
+
+## Position versus length
+
+![barcharts.png](../../assets/img/barcharts.png)
+
+[Graphical perception: Theory, Experimentation, and Applications to the Development of Graphical Models](http://www.jstor.org/discover/10.2307/2288400?uid=3739704&uid=2&uid=4&uid=3739256&sid=21101742782357)
+
+
+
+## Position versus length - results
+
+![poslength.png](../../assets/img/poslength.png)
+
+
+[Graphical perception: Theory, Experimentation, and Applications to the Development of Graphical Models](http://www.jstor.org/discover/10.2307/2288400?uid=3739704&uid=2&uid=4&uid=3739256&sid=21101742782357)
+
+
+## Position versus angle
+
+![piechart.png](../../assets/img/piechart.png)
+
+
+[Graphical perception: Theory, Experimentation, and Applications to the Development of Graphical Models](http://www.jstor.org/discover/10.2307/2288400?uid=3739704&uid=2&uid=4&uid=3739256&sid=21101742782357)
+
+
+
+## Position versus angle - results
+
+
+![posangle.png](../../assets/img/posangle.png)
+
+<br><br>
+[Graphical perception: Theory, Experimentation, and Applications to the Development of Graphical Models](http://www.jstor.org/discover/10.2307/2288400?uid=3739704&uid=2&uid=4&uid=3739256&sid=21101742782357)
+
+
+
+## More experimental results
+
+![bigexp.png](../../assets/img/bigexp.png)
+
+[Graphical Perception and Graphical Methods for Analyzing Scientific Data](http://www.sciencemag.org/content/229/4716/828.refs)
+
+
+## Summary
+
+* Use common scales when possible
+* When possible use position comparisons
+* Angle comparisons are frequently hard to interpret (no piecharts!)
+* No 3-D barcharts. Please.
+
+
